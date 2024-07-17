@@ -1,0 +1,29 @@
+[{"stream_name":"stdout","time":23.848934379,"data":"done loading\n"}
+,{"stream_name":"stdout","time":26.231355901,"data":"Training Epoch: 0, iteration: 0\n"}
+,{"stream_name":"stdout","time":117.991971406,"data":"Training Epoch: 0, iteration: 1000\n"}
+,{"stream_name":"stdout","time":209.106164772,"data":"Training Epoch: 0, iteration: 2000\n"}
+,{"stream_name":"stdout","time":300.394518959,"data":"Training Epoch: 0, iteration: 3000\n"}
+,{"stream_name":"stdout","time":391.087178034,"data":"Training Epoch: 0, iteration: 4000\n"}
+,{"stream_name":"stdout","time":482.079748233,"data":"Training Epoch: 0, iteration: 5000\n"}
+,{"stream_name":"stdout","time":572.993448374,"data":"Training Epoch: 0, iteration: 6000\n"}
+,{"stream_name":"stdout","time":663.673327391,"data":"Training Epoch: 0, iteration: 7000\n"}
+,{"stream_name":"stdout","time":691.196065549,"data":"Validation Epoch: 0, iteration: 0\n"}
+,{"stream_name":"stdout","time":728.523767151,"data":"Validation Epoch: 0, iteration: 1000\n"}
+,{"stream_name":"stdout","time":760.389217869,"data":"Training Epoch: 1, iteration: 0\n"}
+,{"stream_name":"stdout","time":847.740933882,"data":"Training Epoch: 1, iteration: 1000\n"}
+,{"stream_name":"stdout","time":934.984520527,"data":"Training Epoch: 1, iteration: 2000\n"}
+,{"stream_name":"stdout","time":1022.166250613,"data":"Training Epoch: 1, iteration: 3000\n"}
+,{"stream_name":"stdout","time":1109.294588213,"data":"Training Epoch: 1, iteration: 4000\n"}
+,{"stream_name":"stdout","time":1196.496770522,"data":"Training Epoch: 1, iteration: 5000\n"}
+,{"stream_name":"stdout","time":1283.704010111,"data":"Training Epoch: 1, iteration: 6000\n"}
+,{"stream_name":"stdout","time":1370.809742249,"data":"Training Epoch: 1, iteration: 7000\n"}
+,{"stream_name":"stdout","time":1397.330880713,"data":"Validation Epoch: 1, iteration: 0\n"}
+,{"stream_name":"stdout","time":1434.794722288,"data":"Validation Epoch: 1, iteration: 1000\n"}
+,{"stream_name":"stdout","time":1466.711873936,"data":"Training Epoch: 2, iteration: 0\n"}
+,{"stream_name":"stdout","time":1554.062974223,"data":"Training Epoch: 2, iteration: 1000\n"}
+,{"stream_name":"stdout","time":1641.272207826,"data":"Training Epoch: 2, iteration: 2000\n"}
+,{"stream_name":"stdout","time":1728.480758097,"data":"Training Epoch: 2, iteration: 3000\n"}
+,{"stream_name":"stdout","time":1815.796701824,"data":"Training Epoch: 2, iteration: 4000\n"}
+,{"stream_name":"stdout","time":1903.046516025,"data":"Training Epoch: 2, iteration: 5000\n"}
+,{"stream_name":"stdout","time":1990.156579229,"data":"Training Epoch: 2, iteration: 6000\n"}
+]
